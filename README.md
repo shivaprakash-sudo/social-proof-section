@@ -54,7 +54,7 @@ Users should be able to:
 
 ### Continued development
 
-- I'd like to learn solving more complex layouts using flex and grid.
+- I'd like to solve more complex layouts using flex and grid.
 
 ### Useful resources
 
